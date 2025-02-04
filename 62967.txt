@@ -19,7 +19,7 @@ Release Date: August 18, 2020 [EBook #62967]
 
 Language: English
 
-Character set encoding: ISO-8859-1
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK REVOLVING LIGHTS ***
 
@@ -196,13 +196,13 @@ moment want to die, full of gratitude and happiness. It fills everything
 with a music to which you _could_ die. The next piece of life comes as a
 superfluity."
 
-"Le superflu; chose nécessaire."
+"Le superflu; chose necessaire."
 
 At the foot of the stairs stood the yellow street-light, framed in the
 oblong of the doorway. She went out into its shelter. The large grey
 legal buildings that stood by day a solid, dignified pile against the
 sky, a whole remaining region of the pride of London, showed only their
-lower façades, near, gentle frontages of mellow golden light and soft
+lower facades, near, gentle frontages of mellow golden light and soft
 rectangular shadow, just above the brightly gilded surface of the
 deserted roadway. For a moment she stood listening to the reflection of
 the fostering light and breathing in the dry warm freshness of the
@@ -383,7 +383,7 @@ A little blue-lit street; lamps with large round globes, shedding
 moonlight; shadows, grey and black. She had somehow got into the
 west-end--a little west-end street, giving out its character. She went
 softly along the middle of the blue-lit glimmering roadway, narrow
-between the narrow pavements skirting the high façades, flat and grey,
+between the narrow pavements skirting the high facades, flat and grey,
 broken by shadowy pillared porticoes; permanent exits and entrances on
 the stage of the London scene; solid lines and arches of pure grey
 shaping the flow of the pageant, and emerging, when it ebbed away, to
@@ -400,7 +400,7 @@ the trooping succession of masked life-moulded forms, their unobservant
 eyes, aware of the resources all about them, at gaze upon their
 continuous adventure, yesterday still with them as they came out, in
 high morning light, into the adventure of to-day. Campaigners, sure of
-their weapons in the gaily decked mêlée, and sure every day of the
+their weapons in the gaily decked melee, and sure every day of the
 blissful solitude of the interim times.
 
 For as long as she could remember she had known something of their
@@ -459,7 +459,7 @@ It was Michael Shatov's amused delight in her stories of their method
 that had made her begin to cherish them as a possession. Gradually she
 had learned that irritation with their apparent insolence was jealousy.
 Within her early interested unenvious sallies of investigation amongst
-the social élite of the Wimpole Street patients, or as a fellow guest
+the social elite of the Wimpole Street patients, or as a fellow guest
 amongst the Orlys' society friends, there had been moments of longing to
 sweep away the defences and discountenance the individual. But gradually
 the conviction had dawned that with the genuine members of the clan this
@@ -1372,9 +1372,9 @@ loud syren-shriek with half a Spanish nutshell. He had an invention for
 the Admiralty ... lonely and frightened, in a ghostly world; with an
 invention to save the lives of ships.
 
-Engström and Sigerson!
+Engstroem and Sigerson!
 
-Engström's huge frame and bulky hard red face, shining with simplicity
+Engstroem's huge frame and bulky hard red face, shining with simplicity
 below his great serene intellectual brow and up-shooting hair. His first
 evening at Mrs. Bailey's right hand, saying gravely out into the silence
 of the crowded dinner table, "there is in Pareece very much automobiles,
@@ -1786,7 +1786,7 @@ shadow cast by the wide basin of the fountain. There was a solitary
 man's figure standing near the curb, midway on her route across the
 island to take to the roadway opposite Shaftesbury Avenue; standing
 arrested; there was no traffic to prevent his crossing; a watchful
-habitué; she would pass him in a moment, the last fragment of the
+habitue; she would pass him in a moment, the last fragment of the
 west-end ... good-bye, and her thoughts towards gaining the wide
 homeward-going lane. A little stoutish dapper grey-suited ... _Tommy
 Babington!_ Standing at ease, turned quite away from the direction that
@@ -1820,7 +1820,7 @@ almost danced to the opposite pavement in this keenest, witnessed moment
 of her yearslong revel of escape. He would presently be returning to
 that other enclosed life to which, being a man, and dependent on
 comforts, he was fettered. Already in his mind was one of those formulas
-that echoed about in the enclosed life ... "Oui, ma chère, little Mirry
+that echoed about in the enclosed life ... "Oui, ma chere, little Mirry
 _Henderson_, strolling, at midnight, across Piccadilly Circus."
 
 Suddenly it struck her that the life of men was pitiful. They hovered
@@ -2301,7 +2301,7 @@ her, so that she might watch undisturbed; so that he might use the
 spaces of her silence to persuade her that she shared his belief. She
 was helplessly supporting his illusion. It would be too cruel to freeze
 him in mid-career, with a definite message. She sat conforming;
-expanding, in spite of herself, in the rôle he had planned. He must make
+expanding, in spite of herself, in the role he had planned. He must make
 his way back through his pain, later on, as best he could. No one was to
 blame; neither he for being Jew, nor she for her inexorable
 Englishness....
@@ -2387,7 +2387,7 @@ answering Miriam's too-ready irrecoverable beaming smile, and fading
 again at once as she moved towards the door. Too late--already they were
 moving, separated, in single file up the long staircase, Madame Lintoff
 now a little squarish dumpy Jewish body, stumping up the stairs ahead of
-her--Miriam responded to the gleam she had caught in the deep _wehmütig_
+her--Miriam responded to the gleam she had caught in the deep _wehmuetig_
 Hebrew eyes, of something in her that had escaped from the confines of
 her tribe and sex. She was not one of those Jewesses, delighting in
 instant smiling familiarity with women, immediate understanding, banding
@@ -2419,7 +2419,7 @@ state....
 The coming upstairs had stayed the tide of reminiscences. There was
 nothing ahead but obstructive conversation, perhaps in French; but
 steered all the time by Michael's immovable European generalisations;
-his clear, swiftly manoeuvring, encyclopædic Jewish mind....
+his clear, swiftly manoeuvring, encyclopaedic Jewish mind....
 
 With her eyes on the fatiguing vista she agreed that of course Monsieur
 and Madame Lintoff would know French; letting her English voice sound at
@@ -2562,14 +2562,14 @@ movements, in his unself-conscious, uncompeting speech. If what he said
 were true, the people to pity were the specialists and the upper
 classes; clean sepulchres.... How would he take opposition?
 
-"Isn't it weird, étrange," she cried suddenly into a pause in his
+"Isn't it weird, etrange," she cried suddenly into a pause in his
 struggling discourse, "that Christians are just the very people who make
 the most fuss about death?"
 
 He had not understood the idiom. Sunned in his waiting smile she glanced
 aside to frame a translation.
 
-"N'y a rien de plus drôle," she began. How cynical it sounded; a cynical
+"N'y a rien de plus drole," she began. How cynical it sounded; a cynical
 French voice striking jests out of the surface of things; neighing them
 against closed nostrils, with muzzles tight-crinkled in Mephistophelian
 mirth. She glanced back at him, distracted by the reflection that the
@@ -2583,7 +2583,7 @@ difficult to trim the nails of his right hand with his left.
 
 He was still waiting unchanged. Yet not waiting. There was no waiting in
 him. There would be, for him, no more dropping down out of life into the
-humble besogne de la pensée. That was why she felt so near to him, yet
+humble besogne de la pensee. That was why she felt so near to him, yet
 alive, keeping the whole of herself, able to say anything, or nothing.
 She smiled her delight. There was no sheepishness in his answering
 radiance, no grimace of the lips, not the least trace of any of the ways
@@ -3112,7 +3112,7 @@ drawing them away from something towards which they had all been moving.
 It was as if her real being were still facing the other way.
 
 "No--where really can we go?" In an instant he would remember the dark
-little Italian-Swiss café near the Marble Arch, and its seal would be
+little Italian-Swiss cafe near the Marble Arch, and its seal would be
 set on the whole of the afternoon. The Lintoffs would not be aware of
 this. They were indifferent to surroundings in a world that had only one
 meaning for them. But the sense of them and their world, already, in the
@@ -3339,7 +3339,7 @@ was watching tensely; deploring wasted emotion ... probably.
 foreigners, leaving the heart of the problem untouched. It was difficult
 to keep attached to a conversation that was half Michael's, with the
 Lintoffs holding back, acquiescing indulgently in his topics. An
-encyclopædia making statements to people who were moving in a dream;
+encyclopaedia making statements to people who were moving in a dream;
 halting and smiling and producing gestures and kindly echoes.... Michael
 like a rock for most things as they were and had been in the past, yet
 knowing them only in one way; clear as crystal about ordered knowledge,
@@ -3543,7 +3543,7 @@ some imaginary man. Sex-chaff; that was his form of humour; giving him
 away as a nonconformist. But so handsome, sitting large and square, a
 fine massive head, well shaped hair, thick, and dinted with close
 cropped waves; talking about himself in the eloquent American way. It
-was that night he had told the table how he met his fiancée. He was a
+was that night he had told the table how he met his fiancee. He was a
 charlatan, stagey; but there must have been something behind his clever
 anecdotal American piety. Something remained even after the other
 doctors' stories about his sharing their sitting-room and books, without
@@ -4436,7 +4436,7 @@ eyrie. A distasteful refuge between visits.... Had it been a flattering
 appeal, or an insult?
 
 She is like the characters in her book, direct, swift, ruthless, using
-any means.... She saw me as a fool, offered me the rôle of one of the
+any means.... She saw me as a fool, offered me the role of one of the
 negligible minor characters, there to be used by the successful ones.
 She is one with her work, with her picture of life.... But it is not a
 true picture. The glinting sea, all the influences pouring in from the
@@ -4630,7 +4630,7 @@ with anticipation. She would be willing. For the sake of the long
 conversations. They would sit apart talking, for the rest of her time.
 There would be long argumentative letters. No. She would not argue. She
 would be another of those women in the Lycurgan, posing and dressing and
-consciously shining at soirées. Making havoc and complications. Worse
+consciously shining at soirees. Making havoc and complications. Worse
 than they. How could he imagine her a socialist with her view of
 humanity and human motives.
 
@@ -5973,7 +5973,7 @@ Grooge.... Yes; you'd hate him. He's one of the old school; expert
 knowledge about women. That's nonsense of course. There _is_ no expert
 knowledge about women. Men and women are very much alike. But there's
 the honest clean red-blooded people and the posers and rotters and
-anæmic people. And there are for your comfort a few genuine monogamists.
+anaemic people. And there are for your comfort a few genuine monogamists.
 Very few."
 
 "You're stuck, you know. Stuffed with romantic ignorance. You're a great
@@ -6402,7 +6402,7 @@ see you? Just to talk._
 
    Embracing Painting, Sculpture, Architecture, etc. Edited by Mrs
    S. Arthur Strong, LL.D. Extra cloth, with lettering and design in
-   gold. Large cr. 8vo. (7¾ in. by 5¾ in.). 7s. 6d. net a volume.
+   gold. Large cr. 8vo. (73/4 in. by 53/4 in.). 7s. 6d. net a volume.
    Postage 7d.
 
 
@@ -6440,7 +6440,7 @@ see you? Just to talk._
 
    MICHAEL ANGELO. By Sir Charles Holroyd. With 52 plates.
 
-   MEDIÆVAL ART. By W. R. Lethaby. With 66 plates and 120 drawings
+   MEDIAEVAL ART. By W. R. Lethaby. With 66 plates and 120 drawings
    in the text.
 
    THE SCOTTISH SCHOOL OF PAINTING. By William D. McKay, R.S.A. With
@@ -6450,7 +6450,7 @@ see you? Just to talk._
 
    CORREGGIO. By T. Sturge Moore. With 55 plates.
 
-   ALBERT DÜRER. By T. Sturge Moore. With 4 copperplates and 50
+   ALBERT DUeRER. By T. Sturge Moore. With 4 copperplates and 50
    half-tone engravings.
 
    SIR WILLIAM BEECHEY, R.A. By W. Roberts. With 49 plates.
@@ -6477,9 +6477,9 @@ see you? Just to talk._
 
    FREDERICK WALKER. By Clementina Black.
 
-   REMBRANDT. By Auguste Bréal.
+   REMBRANDT. By Auguste Breal.
 
-   VELAZQUEZ. By Auguste Bréal.
+   VELAZQUEZ. By Auguste Breal.
 
    GAINSBOROUGH. By Arthur B. Chamberlain.
 
@@ -6489,7 +6489,7 @@ see you? Just to talk._
 
    G. F. WATTS. By G. K. Chesterton.
 
-   ALBRECHT DÜRER. By Lina Eckenstein.
+   ALBRECHT DUeRER. By Lina Eckenstein.
 
    THE ENGLISH WATER-COLOUR PAINTERS. By A. J. Finberg.
 
@@ -6527,8 +6527,8 @@ see you? Just to talk._
    beautiful method of reproduction.
 
    The letterpress is the same as the volumes in the Popular Library
-   of Art, but it is reset, the size of the volumes being 8¾ ins. by
-   5¾ ins. There are no less than 32 plates in each book. Bound in
+   of Art, but it is reset, the size of the volumes being 83/4 ins. by
+   53/4 ins. There are no less than 32 plates in each book. Bound in
    cloth with gold on side, gold lettering on back: picture wrapper,
    5s. net a volume, postage 5d.
 
@@ -6570,10 +6570,10 @@ see you? Just to talk._
    The books included in this series are standard copyright works,
    issued in similar style at a uniform price, and are eminently
    suited for the library. They are particularly acceptable as prize
-   volumes for advanced students. Demy 8vo, size 9 in. by 5¾ in.
+   volumes for advanced students. Demy 8vo, size 9 in. by 53/4 in.
    Cloth gilt, gilt top. 7s. 6d. net. Postage 7d.
 
-   THE RUBÁ'IYÁT OF 'UMAR KHAYYÁM (Fitzgerald's 2nd Edition).
+   THE RUBA'IYAT OF 'UMAR KHAYYAM (Fitzgerald's 2nd Edition).
    Edited, with an Introduction and Notes, by Edward Heron Allen.
 
    FOLK-LORE OF THE HOLY LAND: Moslem, Christian, and Jewish. By J.
@@ -6601,7 +6601,7 @@ see you? Just to talk._
 
 
    Including the dramatic work of leading contemporary writers, such
-   as Andreyef, Björnson, Galsworthy, Hauptmann, Ibsen, Maeterlinck,
+   as Andreyef, Bjoernson, Galsworthy, Hauptmann, Ibsen, Maeterlinck,
    Eden Phillpotts, Strindberg, Sudermann, Tchekoff, and others.
 
       In single volumes. Cloth, 3s. net; paper covers, 2s. 6d. net
@@ -6611,7 +6611,7 @@ see you? Just to talk._
 
    THE LAUGHING LADY. By Alfred Sutro.
 
-   THE RISK. By André Pascal.
+   THE RISK. By Andre Pascal.
 
    THE WHEEL. By James Bernard Fagan.
 
@@ -6710,13 +6710,13 @@ see you? Just to talk._
    Introduction by F. N. Scott and C. L. Meader. Cr. 8vo, cloth
    gilt. 7s. 6d. net. Postage 6d.
 
-   PLAYS. (First Series.) By Björnstjerne Björnson. (The Gauntlet,
+   PLAYS. (First Series.) By Bjoernstjerne Bjoernson. (The Gauntlet,
    Beyond our Power, The New System.) With an Introduction and
    Bibliography. In one vol. Cr. 8vo. 7s. 6d. net. Postage 6d.
 
-   PLAYS. (Second Series.) By Björnstjerne Björnson. (Love and
+   PLAYS. (Second Series.) By Bjoernstjerne Bjoernson. (Love and
    Geography, Beyond Human Might, Laboremus.) With an Introduction
-   by Edwin Björkman. In one vol. Cr. 8vo. 7s. 6d. net. Postage 6d.
+   by Edwin Bjoerkman. In one vol. Cr. 8vo. 7s. 6d. net. Postage 6d.
 
    MODERN PLAYS--continued [Postage 6d. unless otherwise stated]
 
@@ -6796,7 +6796,7 @@ see you? Just to talk._
 
    CALIBAN'S GUIDE TO LETTERS--LAMBKINS REMAINS. By Hilaire Belloc.
 
-   MEN, WOMEN, AND BOOKS: RES JUDICATÆ. By Augustine Birrell.
+   MEN, WOMEN, AND BOOKS: RES JUDICATAE. By Augustine Birrell.
    Complete in one vol.
 
    OBITER DICTA. By Augustine Birrell. First and Second Series in
@@ -6863,7 +6863,7 @@ see you? Just to talk._
 
    BETWEEN THE ACTS. By H. W. Nevinson.
 
-   PRINCIPLE IN ART: RELIGIO POETÆ. By Coventry Patmore.
+   PRINCIPLE IN ART: RELIGIO POETAE. By Coventry Patmore.
 
    PARALLEL PATHS. A Study in Biology, Ethics, and Art. By T. W.
    Rolleston.
@@ -6951,7 +6951,7 @@ see you? Just to talk._
 
    REST AND UNREST. By Edward Thomas.
 
-   ROSE ACRE PAPERS: HORÆ SOLITARIÆ. By Edward Thomas.
+   ROSE ACRE PAPERS: HORAE SOLITARIAE. By Edward Thomas.
 
 
 
@@ -7184,12 +7184,12 @@ consulting other editions, are listed here (before/after):
    ... of the atmosphere--the interest or boredom ...
 
    [p. 99]:
-   ... gleam she had caught in the deep wehrmütig ...
-   ... gleam she had caught in the deep wehmütig ...
+   ... gleam she had caught in the deep wehrmuetig ...
+   ... gleam she had caught in the deep wehmuetig ...
 
    [p. 107]:
-   ... of life into the humble bésogne de la pensée. ...
-   ... of life into the humble besogne de la pensée. ...
+   ... of life into the humble besogne de la pensee. ...
+   ... of life into the humble besogne de la pensee. ...
 
    [p. 167]:
    ...  reflectively. As if it had just occurred to her. ...
@@ -7200,7 +7200,7 @@ consulting other editions, are listed here (before/after):
    ... blue; unseeing; contradicting her matronly ...
 
    [p. 204]:
-   ... ironmongery in my rücksack and off we'll ...
+   ... ironmongery in my ruecksack and off we'll ...
    ... ironmongery in my rucksack and off we'll ...
 
    [p. 224]:
@@ -7220,7 +7220,7 @@ End of Project Gutenberg's Revolving Lights, by Dorothy M. Richardson
 
 *** END OF THIS PROJECT GUTENBERG EBOOK REVOLVING LIGHTS ***
 
-***** This file should be named 62967-8.txt or 62967-8.zip *****
+***** This file should be named 62967.txt or 62967.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/6/2/9/6/62967/
 
